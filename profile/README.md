@@ -18,11 +18,11 @@
     <img src="https://img.freepik.com/free-vector/vintage-extraterrestrial-concept_225004-1183.jpg?w=900&t=st=1676632167~exp=1676632767~hmac=0a87230a971962bffc898a59bda22c21b9d24e75f4849f0926f1bf2902ecc2df" style="border-radius: 30px" >
   </a>
 
-<h3 align="center">Handwriting Understanding System</h3>
+<h3 align="center">Repository for some pretty cool projects</h3>
 
 
   <p align="center">
-    A system to recognize handwritten text and convert it to a digital format.. 
+    in a feeble attempt to answer any question with 42. 
 </div>
 
 
@@ -32,7 +32,7 @@
   <summary>Table of Contents</summary>
   <ol>
     <li>
-      <a href="#about-the-project">About The Project</a>
+      <a href="#about-the-project">About The Galaxy</a>
       <ul>
         <li><a href="#built-with">Built With</a></li>
       </ul>
@@ -49,9 +49,9 @@
 
 
 <!-- ABOUT THE CLASS -->
-## About The Class
+## About The Galaxy
 
-xxx
+0.0
 
 
 
